@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\utilities\\loglevelnormalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\utilities\\loglevelnormalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\parsers\\format2parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\parsers\\format2parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\parsers\\format1parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\parsers\\format1parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\interfaces\\ilogparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\interfaces\\ilogparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\core\\parseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\core\\parseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\core\\logprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\core\\logprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\problems.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\problems.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen3\\junmidsen3\\junmidsen3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C08E918C-660C-4797-A81C-58EF49AC6E53}|junmidsen3\\junmidsen3.csproj|solutionrelative:junmidsen3\\junmidsen3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogLevelNormalizer.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Utilities\\LogLevelNormalizer.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Utilities\\LogLevelNormalizer.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Utilities\\LogLevelNormalizer.cs",
+              "RelativeToolTip": "junmidsen3\\Utilities\\LogLevelNormalizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:29:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParseResult.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Core\\ParseResult.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Core\\ParseResult.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Core\\ParseResult.cs",
+              "RelativeToolTip": "junmidsen3\\Core\\ParseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:28:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Core\\LogProcessor.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Core\\LogProcessor.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Core\\LogProcessor.cs",
+              "RelativeToolTip": "junmidsen3\\Core\\LogProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:28:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Format2Parser.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Parsers\\Format2Parser.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Parsers\\Format2Parser.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Parsers\\Format2Parser.cs",
+              "RelativeToolTip": "junmidsen3\\Parsers\\Format2Parser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:28:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Format1Parser.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Parsers\\Format1Parser.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Parsers\\Format1Parser.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Parsers\\Format1Parser.cs",
+              "RelativeToolTip": "junmidsen3\\Parsers\\Format1Parser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:27:41.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogParser.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Interfaces\\ILogParser.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Interfaces\\ILogParser.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Interfaces\\ILogParser.cs",
+              "RelativeToolTip": "junmidsen3\\Interfaces\\ILogParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:22:33.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Models\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Models\\LogEntry.cs",
+              "RelativeToolTip": "junmidsen3\\Models\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:36:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "junmidsen3",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\junmidsen3.csproj",
+              "RelativeDocumentMoniker": "junmidsen3\\junmidsen3.csproj",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\junmidsen3.csproj",
+              "RelativeToolTip": "junmidsen3\\junmidsen3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-04T21:31:39.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Program.cs",
+              "RelativeDocumentMoniker": "junmidsen3\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\Program.cs",
+              "RelativeToolTip": "junmidsen3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:46:36.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\input.txt",
+              "RelativeDocumentMoniker": "junmidsen3\\input.txt",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\input.txt",
+              "RelativeToolTip": "junmidsen3\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-04T17:15:35.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "problems.txt",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\problems.txt",
+              "RelativeDocumentMoniker": "junmidsen3\\problems.txt",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\problems.txt",
+              "RelativeToolTip": "junmidsen3\\problems.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-04T16:24:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\output.txt",
+              "RelativeDocumentMoniker": "junmidsen3\\output.txt",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen3\\junmidsen3\\output.txt",
+              "RelativeToolTip": "junmidsen3\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-04T17:15:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

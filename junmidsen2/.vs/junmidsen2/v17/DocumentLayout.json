@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB95C70-65E5-4C1E-9547-C18834F69BED}|junmidsen2\\junmidsen2.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen2\\junmidsen2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB95C70-65E5-4C1E-9547-C18834F69BED}|junmidsen2\\junmidsen2.csproj|solutionrelative:junmidsen2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB95C70-65E5-4C1E-9547-C18834F69BED}|junmidsen2\\junmidsen2.csproj|c:\\users\\danil\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\projects\\cleverence_tasks\\junmidsen2\\junmidsen2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB95C70-65E5-4C1E-9547-C18834F69BED}|junmidsen2\\junmidsen2.csproj|solutionrelative:junmidsen2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen2\\junmidsen2\\Server.cs",
+              "RelativeDocumentMoniker": "junmidsen2\\Server.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen2\\junmidsen2\\Server.cs",
+              "RelativeToolTip": "junmidsen2\\Server.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:19:29.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen2\\junmidsen2\\Program.cs",
+              "RelativeDocumentMoniker": "junmidsen2\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\Cleverence_tasks\\junmidsen2\\junmidsen2\\Program.cs",
+              "RelativeToolTip": "junmidsen2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:42:37.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
